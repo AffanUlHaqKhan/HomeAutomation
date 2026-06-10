@@ -13,3 +13,6 @@ Will be starting with creatinig a very simple basic and rudementary UI and then 
 Once the UI is good enough, will move to baking it into linux distro using yocto for raspberry pi and then sensor integration
 
 If there is time or need, will try to work on OTA as well. 
+
+
+There would possibly be a different repo for Yocto part, if that happens then these two would be added as submodule
